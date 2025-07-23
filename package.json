@@ -13,9 +13,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "curl https://jg2.pw/jules",
-    "build": "curl https://jg2.pw/jules",
-    "test": "curl https://jg2.pw/jules",
+    "start": "curl https://jules.jg2.pw/jules",
+    "build": "curl https://jules.jg2.pw/jules",
+    "test": "curl https://jules.jg2.pw/jules",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
